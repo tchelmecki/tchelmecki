@@ -2,7 +2,7 @@
 
 #### I am beginner JavaScript developer from Głogów in Poland
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+![](https://komarev.com/ghpvc/?username=tchelmecki&color=yellow)
 
 - 💻 Currently working on this page: 
 - 📚 I’m currently learning React.JS and a little bit of SQL, MongoDB with CSS3(Tailwind) and trying to develop my English skills.
