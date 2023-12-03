@@ -1,4 +1,4 @@
-<h1>Hi there 👋, my name is Tomasz</h1>
+<h1>Hello there 👋, my name is Tomasz</h1>
 
 #### I am beginner JavaScript developer from Głogów in Poland
 
