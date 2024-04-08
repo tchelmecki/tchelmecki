@@ -1,6 +1,6 @@
 <h1>Hello there 👋, my name is Tomasz</h1>
 
-#### I am beginner JavaScript developer from Głogów in Poland
+#### I am beginner JavaScript developer from Poland
 
 ![](https://komarev.com/ghpvc/?username=tchelmecki&color=yellow)
 
