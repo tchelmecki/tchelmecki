@@ -13,7 +13,7 @@
 
 <h2>Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,nodejs,express,mysql,mongodb,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,nodejs,express,mysql,mongodb,graphql,git,linux)](https://skillicons.dev)
 
  
 
