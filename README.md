@@ -9,7 +9,9 @@
 - 📧 Open to contact with you: tomaszchelmecki123@gmail.com
 <h2>Contact me:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/)
+
 
 <h2>Languages and Tools:</h2>
 
