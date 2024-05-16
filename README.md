@@ -7,11 +7,6 @@
 - 💻 Currently working on this page: Music Web Player (at the moment, a private repository)
 - 📚 I’m currently learning React.JS and a little bit of SQL, MongoDB with CSS3(Tailwind) and trying to develop my English skills.
 - 📧 Open to contact with you: tomaszchelmecki123@gmail.com
-<h2>Contact me:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/)
-
 
 <h2>Languages and Tools:</h2>
 
