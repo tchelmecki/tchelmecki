@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tchelmecki&color=yellow)
 
-- 💻 Currently working on this page: Music Web Player (at the moment, a private repository)
+- 💻 Currently working on this page: Music Web Player
 - 📚 I’m currently learning React.JS and a little bit of SQL, MongoDB with CSS3(Tailwind) and trying to develop my English skills.
 - 📧 Open to contact with you: tomaszchelmecki123@gmail.com
 
