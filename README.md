@@ -1,11 +1,11 @@
 <h1>Hello there 👋, my name is Tomasz</h1>
 
-#### I am beginner JavaScript developer from Poland
+#### I am JavaScript developer from Poland
 
 ![](https://komarev.com/ghpvc/?username=tchelmecki&color=yellow)
 
 - 💻 Currently working on this page: Music Web Player
-- 📚 I’m currently learning React.JS and a little bit of SQL, MongoDB with CSS3(Tailwind) and trying to develop my English skills.
+- 📚 I’m currently learning React.JS, Redux, MongoDB with Tailwind CSS and trying to develop my English skills.
 - 📧 Open to contact with you: tomaszchelmecki123@gmail.com
 
 <h2>Languages and Tools:</h2>
